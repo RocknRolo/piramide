@@ -1,0 +1,18 @@
+
+body {
+	background-color: black;
+}
+
+canvas {
+    border: none;
+}
+
+.pyramidHeight, .blockSize {
+	width: 30px;
+	height: 15px;
+	resize: none;
+}
+
+p {
+	color: white;
+}

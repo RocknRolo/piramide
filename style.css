@@ -3,6 +3,21 @@ body {
 	background-color: black;
 }
 
+a {
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: yellow;
+}
+
+
 canvas {
     border: none;
 }
